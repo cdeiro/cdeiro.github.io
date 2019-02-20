@@ -22,7 +22,7 @@ url: "https://cdeiro.github.io/" # the base hostname & protocol for your site, e
 #twitter_username: jekyllrb
 github_username:  cdeiro
 disqus:
-	shortname: https-cdeiro-github-io
+  shortname: https-cdeiro-github-io
 
 # Build settings
 markdown: kramdown
