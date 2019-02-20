@@ -4,6 +4,7 @@ title:  "Zero secrets!"
 date:   2019-02-13 11:11:10 -0500
 categories: cybersecurity
 excerpt: In the Internet age, secrets cannot be kept - for long.
+comments: true
 ---
 Proposition
 ===========
